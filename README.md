@@ -3,7 +3,7 @@ This app allow the user to select two currency to get the exchange rate of a spe
 
 ## Project Spec
 - Display UI with 2 select lists for countries and 2 inputs for amounts
-- ***Fetch*** exchange rates from API (https://api.exchangerate-api.com)
+- ***Fetch*** exchange rates from API (https://api.exchangerate-api.com) that update the value every 24h
 - Display the values for both countries
 - Update values on amount change
 - Swap country rates
